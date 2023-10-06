@@ -37,3 +37,6 @@ We are a passionate robotics team from Misiones, Argentina, competing in the WRO
 ![testing object_color detection](https://github.com/ZayasAnaFlorencia/YararaTeam_WRO_2023/blob/main/photos%20%26%20videos/test5.jpeg)
 
 ![demo](https://github.com/ZayasAnaFlorencia/YararaTeam_WRO_2023/blob/main/photos%20%26%20videos/videos%20of%20our%20first%20prototype/demo.gif)
+
+## Our flow Diagram (proposed solution)
+![Flow](https://github.com/ZayasAnaFlorencia/YararaTeam_WRO_2023/blob/main/photos%20%26%20videos/Solucion%202.png)
