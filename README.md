@@ -14,7 +14,7 @@ We are a passionate robotics team from Misiones, Argentina, competing in the WRO
 ## Our Team
 
 - Campis Juan José - Team Leader
-- ZayaS Florencia Ana - Designer, Software Developer
+- Zayas Florencia Ana - Designer, Software Developer
 - Aguirre Franco Joaquin- Software Developer
 
 ## Take a look at our first prototype! Here are some photos:
