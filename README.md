@@ -21,13 +21,13 @@ We are a passionate robotics team from Misiones, Argentina, competing in the WRO
 
     It looks messy with all that wirings... 3d printing and cardboards but it worked 😅
 
-![Eduardo](https://github.com/ZayasAnaFlorencia/YararaTeam_WRO_2023/blob/main/photos%20%26%20videos/test1.jpeg)
+![Eduardo](https://github.com/ZayasAnaFlorencia/YararaTeam_WRO_2023/blob/main/YararaTeam.v1/photos%20%26%20videos/test1.jpeg)
 
-![enter image description here](https://github.com/ZayasAnaFlorencia/YararaTeam_WRO_2023/blob/main/photos%20%26%20videos/test2.jpeg)
+![enter image description here](https://github.com/ZayasAnaFlorencia/YararaTeam_WRO_2023/blob/main/YararaTeam.v1/photos%20%26%20videos/test2.jpeg)
 
-![enter image description here](https://github.com/ZayasAnaFlorencia/YararaTeam_WRO_2023/blob/main/photos%20%26%20videos/test3.jpeg)
+![enter image description here](https://github.com/ZayasAnaFlorencia/YararaTeam_WRO_2023/blob/main/YararaTeam.v1/photos%20%26%20videos/test3.jpeg)
 
-![enter image description here](https://github.com/ZayasAnaFlorencia/YararaTeam_WRO_2023/blob/main/photos%20%26%20videos/test4.jpeg)
+![enter image description here](https://github.com/ZayasAnaFlorencia/YararaTeam_WRO_2023/blob/main/YararaTeam.v1/photos%20%26%20videos/test4.jpeg)
 
     We continue practicing and getting better... 
     so we decided added openCV with help of a raspberry pi4.
