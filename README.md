@@ -40,3 +40,6 @@ We are a passionate robotics team from Misiones, Argentina, competing in the WRO
 
 ## Our flow Diagram (proposed solution)
 ![Flow](https://github.com/ZayasAnaFlorencia/YararaTeam_WRO_2023/blob/main/photos%20%26%20videos/Solucion%202.png)
+
+## Schematic v2 
+![Flow](https://github.com/ZayasAnaFlorencia/YararaTeam_WRO_2023/blob/main/photos%20%26%20videos/EsquemaCarlos.png)
