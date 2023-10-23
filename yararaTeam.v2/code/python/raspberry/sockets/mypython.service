@@ -1,0 +1,11 @@
+[Unit]
+Description=Mi python
+After=node-red.service
+
+[Service]
+ExecStart=/usr/bin/python3 /root/Desktop/sockets.py
+WorkingDirectory=/root/Desktop
+Restart=always
+
+[Install]
+WantedBy=multi-user.target
