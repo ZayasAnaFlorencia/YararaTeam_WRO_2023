@@ -1,14 +1,14 @@
 #include <Servo.h>
-//
+
 Servo servoMotor;
-int ma = 4;
-int mpwm = 2;
+int ma = 2;
+int mpwm = 5;
 int servoPin = 14;
 
 void setup() {
   Serial.begin(115200); // Inicializa la comunicación serial a 9600 baudios
   servoMotor.attach(servoPin);
-  //
+  
   pinMode(ma, OUTPUT);
   pinMode(mpwm, OUTPUT);
 }
@@ -37,6 +37,12 @@ void Direccion(int servoValue) {
 }
 
 void Motor(int motorValue) {
-  digitalWrite(ma, HIGH);
-  analogWrite(mpwm, motorValue);
+  if (motorValue < 0){
+    digitalWrite(ma, LOW);
+    analogWrite(mpwm, abs(motorValue));
+  } else {
+    digitalWrite(ma, HIGH);
+    analogWrite(mpwm, motorValue);
+  }
+  
 }
