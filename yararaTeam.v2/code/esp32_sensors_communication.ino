@@ -32,13 +32,12 @@ void loop() {
   distance2 = sonar2.ping_cm();
   interrupts(); // Reactivar interrupciones
 
-  Serial2.print("Distancia Sensor 1: ");
   Serial2.print(distance1);
-  Serial2.print(" cm, Sensor 2: ");
+  Serial2.print(",");
   Serial2.print(distance2);
-  Serial2.println(" cm");
+  Serial2.println("");
 
-  delay(500);
+  delay(50);
 }
 
 void echoInterrupt1() {
